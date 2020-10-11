@@ -1,0 +1,125 @@
+html {
+   
+      
+}
+
+
+body {
+   
+    font-family: sans serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+     
+}
+#result {
+    
+    margin-top: 15%;
+    
+}
+
+#map {
+    width: 600px;
+    height: 300px;
+    margin-top: 15%;
+    margin-left: 30%;
+    z-index: 10;
+    
+}
+
+
+.top{
+   max-width: 100%;
+    
+}
+
+h1{
+    font-family: Zombie Holocaust;
+    color: #934306;
+    font-size: 48px;
+     text-align: center;
+    letter-spacing: 1px;
+    margin-top: -35%;
+    
+}
+h2 {text-align: center;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 15px
+    
+}
+
+
+.pumpkin{
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: -20%
+    
+}
+
+.sektion1{
+    margin-top: -80%
+}
+
+h3 { font-family: Zombie Holocaust;
+    color: #934306;
+    font-size: 40px;
+    letter-spacing: 1px;}
+
+p{  text-align: center;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 150%;
+}
+
+    
+.overskrift1 {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+.tekst1{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;  
+}
+
+
+.overskrift2 {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+
+.tekst2{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;  
+}
+
+
+.weatherInfo{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 15px;}
+
+h4 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    
+}
+.bund {
+    z-index: 1;
+    max-width: 100%;
+    
+
+    
+    
+}
